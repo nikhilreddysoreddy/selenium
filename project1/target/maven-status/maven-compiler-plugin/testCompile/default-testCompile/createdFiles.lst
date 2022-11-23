@@ -1,0 +1,8 @@
+stepDefinition\Dez_learn.class
+stepDefinition\Amazon.class
+stepDefinition\New_tours2.class
+pom\Calling_New_t.class
+stepDefinition\TestRunner.class
+package_maven\Amazon.class
+property_List\New_t_proper.class
+pom\New_t.class
